@@ -23,8 +23,8 @@ Contribute to improving the understanding of the relationship between sleep and 
 Enable large-scale sleep studies by providing more reliable and automated tools for sleep monitoring.
 
 # Repository Structure
-src/data: This directory contains the dataset provided for the competition. Due to privacy and licensing constraints, the data may not be publicly available here. Please refer to the competition platform for access.
+Code/Data: This directory contains the dataset provided for the competition. Due to privacy and licensing constraints, the data may not be publicly available here. Please refer to the competition platform for access.
 
-src: Source code for the model(s) developed for sleep state detection. This includes data preprocessing, feature engineering, and model training.
+Code: Source code for the model(s) developed for sleep state detection. This includes data preprocessing, feature engineering, and model training.
 
-src/results: This directory stores the results of our model evaluations, including metrics, visualizations, and any other relevant outputs.
+Code/results: This directory stores the results of our model evaluations, including metrics, visualizations, and any other relevant outputs.
